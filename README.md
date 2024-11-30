@@ -44,7 +44,7 @@ Simply run `main.py` to traing the model.
 
 ## Citation
 ```
-@inproceedings{DBLP:conf/nips/Wu0ZC23,
+@inproceedings{Wu0ZC23,
   author       = {Shengqiong Wu and
                   Hao Fei and
                   Hanwang Zhang and
@@ -56,4 +56,5 @@ Simply run `main.py` to traing the model.
 ```
 
 ## Acknowledgement
-Our code is based on the respective official repositories and [GLIGEN](https://github.com/gligen/GLIGEN), [LayoutDM](https://github.com/CyberAgentAILab/layout-dm), and [VQ-Diffusion](https://github.com/microsoft/VQ-Diffusion/) we thank the authors to release their code.
+
+Our code is based on the respective official repositories, [GLIGEN](https://github.com/gligen/GLIGEN), [LayoutDM](https://github.com/CyberAgentAILab/layout-dm), and [VQ-Diffusion](https://github.com/microsoft/VQ-Diffusion/). We fully thank the authors to release their code.
